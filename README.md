@@ -125,6 +125,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Email**: [horse.coin.0@gmail.com](mailto:horse.coin.0@gmail.com)
+- **Telegram Channel**: [t.me/horse_dao](https://t.me/horse_dao)
 
 ---
 
