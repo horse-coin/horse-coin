@@ -22,6 +22,7 @@ Welcome to **HORSE DAO** — a decentralized ecosystem that unites competitive p
     - [Trading Tokens](#trading-tokens)
 - [License](#license)
 - [Contact](#contact)
+- [Support the Project](#support-the-project)
 - [Additional Information](#additional-information)
     - [Roadmap](#roadmap)
 
@@ -126,6 +127,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Email**: [horse.coin.0@gmail.com](mailto:horse.coin.0@gmail.com)
 - **Telegram Channel**: [t.me/horse_dao](https://t.me/horse_dao)
+
+## Support the Project
+
+If you'd like to support the HORSE DAO project, you can send donations to the following address:
+
+- **My Public Address to Receive NEAR**: e05e686bba7b5417e585ac6f59de350e9b99b92f00fdc8b1e670075f10ddfdb4
+- **Pay me via Trust Wallet**: [Send NEAR via Trust Wallet](https://link.trustwallet.com/send?asset=c397&address=e05e686bba7b5417e585ac6f59de350e9b99b92f00fdc8b1e670075f10ddfdb4)
 
 ---
 
